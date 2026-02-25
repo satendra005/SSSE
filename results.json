@@ -1,0 +1,5272 @@
+[
+  {
+    "url": "https://home.ssse.in/MEFGIHome.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_1.png",
+    "load_time": 0.43398380279541016,
+    "visited_time": "2026-02-06 16:52:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/#",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_2.png",
+    "load_time": 0.35538434982299805,
+    "visited_time": "2026-02-06 16:52:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/EmployeeProfile.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_3.png",
+    "load_time": 0.40509796142578125,
+    "visited_time": "2026-02-06 16:52:18",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/CentralStreamwiseSemesterWiseSubject.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_4.png",
+    "load_time": 0.5611207485198975,
+    "visited_time": "2026-02-06 16:52:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Marketing/CRM.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_5.png",
+    "load_time": 2.1759426593780518,
+    "visited_time": "2026-02-06 16:52:29",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://crm.ssse.in/ScriptResource.axd?d=XHJ2ReZUQ542cflsG-QMQmHKC3GzD_qSFqnsLHt_MzSjmxm-c0ZjQGjDlmXyIf5C5_T-bVRx9-UEvwT9Z2rKqoPzLTg2v4TW8vz7s5bfnQ5g_0L4AlpAckQLPeSCTxHsFaePOujmGPQEAc2ru5xjPffN2Mw1&t=27117261 156:11 Uncaught Error: Sys.ArgumentNullException: Value cannot be null.\nParameter name: panelsCreated[1]",
+        "source": "javascript",
+        "timestamp": 1770376948766
+      }
+    ]
+  },
+  {
+    "url": "https://admin.ssse.in/AreaMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_6.png",
+    "load_time": 0.8596274852752686,
+    "visited_time": "2026-02-06 16:52:34",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/PreferenceMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_7.png",
+    "load_time": 0.47185611724853516,
+    "visited_time": "2026-02-06 16:52:38",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/PendingEmailandSMSMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_8.png",
+    "load_time": 0.5832169055938721,
+    "visited_time": "2026-02-06 16:52:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ProcurementOfBookNew.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_9.png",
+    "load_time": 0.5300238132476807,
+    "visited_time": "2026-02-06 16:52:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/MEFAcademicDash/FacultyUI/FacultyEContentUP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_10.png",
+    "load_time": 0.32178378105163574,
+    "visited_time": "2026-02-06 16:52:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/Attendence.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_11.png",
+    "load_time": 1.6663894653320312,
+    "visited_time": "2026-02-06 16:52:59",
+    "js_logs": []
+  },
+  {
+    "url": "https://event.ssse.in/",
+    "issues": [
+      "HTTP status 404",
+      "Redirected 1 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_12.png",
+    "load_time": 1.540907621383667,
+    "visited_time": "2026-02-06 16:53:04",
+    "js_logs": []
+  },
+  {
+    "url": "https://budget.ssse.in/",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_13.png",
+    "load_time": 2.3605329990386963,
+    "visited_time": "2026-02-06 16:53:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/YourDailyPunching.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_14.png",
+    "load_time": 0.3482522964477539,
+    "visited_time": "2026-02-06 16:53:16",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.e.ssse.in/images/favicon.png - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770376994680
+      }
+    ]
+  },
+  {
+    "url": "https://pbas.ssse.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_15.png",
+    "load_time": 1.4128975868225098,
+    "visited_time": "2026-02-06 16:53:21",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://pbas.ssse.in/js/design-common_approval.js 256:14 Uncaught TypeError: $(...).onePageNav is not a function",
+        "source": "javascript",
+        "timestamp": 1770377000064
+      }
+    ]
+  },
+  {
+    "url": "https://helpdesk.ssse.in/",
+    "issues": [
+      "Slow load: 8.76s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_16.png",
+    "load_time": 8.76248049736023,
+    "visited_time": "2026-02-06 16:53:34",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://helpdesk.ssse.in/css/hr-style.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377008658
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./images/MarwadiLoading.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377013717
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://handlers./getimage.ashx?Id=191 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377013842
+      }
+    ]
+  },
+  {
+    "url": "https://ss.ssse.in/",
+    "issues": [
+      "Slow load: 9.28s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_17.png",
+    "load_time": 9.28216028213501,
+    "visited_time": "2026-02-06 16:53:47",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn..ssse.in/images/MarwadiLoading.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377026085
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://handlers..ssse.in/getimage.ashx?Id=191 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377026086
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn..ssse.in/images/MarwadiLoading.gif - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377026285
+      }
+    ]
+  },
+  {
+    "url": "https://hostel.ssse.in/",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_18.png",
+    "load_time": 3.8321878910064697,
+    "visited_time": "2026-02-06 16:53:55",
+    "js_logs": []
+  },
+  {
+    "url": "https://dashboard.ssse.in/",
+    "issues": [
+      "Slow load: 17.26s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_19.png",
+    "load_time": 17.255359888076782,
+    "visited_time": "2026-02-06 16:54:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://payroll.ssse.in/",
+    "issues": [
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_20.png",
+    "load_time": 1.7336969375610352,
+    "visited_time": "2026-02-06 16:54:21",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamResultEntry.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_21.png",
+    "load_time": 0.39670872688293457,
+    "visited_time": "2026-02-06 16:54:26",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/PaperFormatUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_22.png",
+    "load_time": 0.2379000186920166,
+    "visited_time": "2026-02-06 16:54:31",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/TimeTableRights.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_23.png",
+    "load_time": 0.48993754386901855,
+    "visited_time": "2026-02-06 16:54:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamAnswerSheet.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_24.png",
+    "load_time": 0.15572118759155273,
+    "visited_time": "2026-02-06 16:54:39",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamEmployeeName.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_25.png",
+    "load_time": 0.26944875717163086,
+    "visited_time": "2026-02-06 16:54:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/VisitingFaculty.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_26.png",
+    "load_time": 1.2442357540130615,
+    "visited_time": "2026-02-06 16:54:48",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377087264
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377087352
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377087403
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/TIPOWEB/ManageStudentPlacementStatus.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_27.png",
+    "load_time": 0.4519989490509033,
+    "visited_time": "2026-02-06 16:54:53",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery_v_1.4.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092530
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery_notification_v.1.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092560
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery-1.7.2.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092561
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery-ui-1.8.21.custom.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092588
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-alert.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092601
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-modal.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092601
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-transition.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092601
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-dropdown.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092602
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-scrollspy.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092608
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-tab.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092618
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-popover.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092620
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-tooltip.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092620
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-collapse.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092623
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-button.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092624
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-carousel.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092643
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-typeahead.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092651
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-tour.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092653
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.cookie.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092653
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/fullcalendar.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092655
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.dataTables.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092655
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/excanvas.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092677
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.flot.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092682
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.flot.pie.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092686
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.flot.stack.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092686
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.flot.resize.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092686
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.chosen.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092705
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.uniform.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092708
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.colorbox.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092721
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.cleditor.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092721
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.elfinder.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092724
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.noty.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092724
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.raty.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092737
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.iphone.toggle.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092740
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.uploadify-3.1.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092753
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.autogrow-textarea.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092754
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092757
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092757
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092772
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/js/bootstrap-tooltip.js?_=1770377092778 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377092828
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/StreamWiseHODMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_28.png",
+    "load_time": 0.19455623626708984,
+    "visited_time": "2026-02-06 16:54:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamMarksEntry.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_29.png",
+    "load_time": 0.18421626091003418,
+    "visited_time": "2026-02-06 16:55:03",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/ExamMarksEntry.aspx 2207:0 Uncaught ReferenceError: popupheight is not defined",
+        "source": "javascript",
+        "timestamp": 1770377101895
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamMarksOffline.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_30.png",
+    "load_time": 0.24975109100341797,
+    "visited_time": "2026-02-06 16:55:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamStudentCountUpcoming.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_31.png",
+    "load_time": 1.2923638820648193,
+    "visited_time": "2026-02-06 16:55:12",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://academic.ssse.in/ExamStudentCountUpcoming.aspx 2149 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770377111508
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ClassWiseReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_32.png",
+    "load_time": 0.19139742851257324,
+    "visited_time": "2026-02-06 16:55:18",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/SubjectTeachingSchemeUpdate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_33.png",
+    "load_time": 0.2058420181274414,
+    "visited_time": "2026-02-06 16:55:21",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/staff/general/EmployeeAllMappingYearWiseRpt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_34.png",
+    "load_time": 0.5154399871826172,
+    "visited_time": "2026-02-06 16:55:27",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377126161
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/general/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377126179
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/general/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377126195
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/StudentWiseTelegramRegistration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_35.png",
+    "load_time": 0.18063020706176758,
+    "visited_time": "2026-02-06 16:55:31",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/phddashboard.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_36.png",
+    "load_time": 0.6938753128051758,
+    "visited_time": "2026-02-06 16:55:36",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377135466
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377135657
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377135680
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377135708
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/AdmissionJRSNewAdmission.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_37.png",
+    "load_time": 0.20888400077819824,
+    "visited_time": "2026-02-06 16:55:41",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ResearchNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_38.png",
+    "load_time": 0.3578152656555176,
+    "visited_time": "2026-02-06 16:55:45",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770377144520
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770377144520
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770377144520
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770377144520
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770377144526
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770377144526
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/InternationalNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_39.png",
+    "load_time": 0.23584508895874023,
+    "visited_time": "2026-02-06 16:55:50",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770377149004
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770377149004
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770377149004
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770377149005
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770377149008
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.ssse.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770377149009
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/FacultyFeedbackGeneration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_40.png",
+    "load_time": 0.17127013206481934,
+    "visited_time": "2026-02-06 16:55:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/FacultyFeedbackReport.aspx",
+    "issues": [
+      "Slow load: 5.28s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_41.png",
+    "load_time": 5.275457143783569,
+    "visited_time": "2026-02-06 16:56:02",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./ - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377161476
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamPolicies.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_42.png",
+    "load_time": 0.1836400032043457,
+    "visited_time": "2026-02-06 16:56:06",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/TransferTimeTable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_43.png",
+    "load_time": 0.29301905632019043,
+    "visited_time": "2026-02-06 16:56:10",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/QuestionPaper.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_44.png",
+    "load_time": 0.54850172996521,
+    "visited_time": "2026-02-06 16:56:14",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/QuestionPaper.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377173688
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377173689
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377173725
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377173952
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377173965
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamAdminPanel.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_45.png",
+    "load_time": 0.22758173942565918,
+    "visited_time": "2026-02-06 16:56:19",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamStudentNotAllow.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_46.png",
+    "load_time": 0.500002384185791,
+    "visited_time": "2026-02-06 16:56:24",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ExternalFacultyMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_47.png",
+    "load_time": 0.5703668594360352,
+    "visited_time": "2026-02-06 16:56:28",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377187125
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ExternalFacultyMaster.aspx 72 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377187125
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery-1.7.2.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187125
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery-ui-1.8.21.custom.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187152
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-transition.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187154
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-alert.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187155
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-modal.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187157
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-dropdown.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187157
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-scrollspy.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-tooltip.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-popover.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-tab.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-button.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187207
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-collapse.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187234
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-carousel.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187234
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-typeahead.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187234
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/bootstrap-tour.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187234
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.cookie.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187234
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/fullcalendar.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187249
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.dataTables.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187256
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/excanvas.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187258
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.flot.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187258
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.flot.pie.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187263
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery.flot.stack.js 177:11 Uncaught TypeError: Cannot read properties of undefined (reading 'plugins')",
+        "source": "javascript",
+        "timestamp": 1770377187264
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.flot.resize.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187282
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.chosen.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187286
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.uniform.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187289
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.colorbox.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187289
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.noty.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187294
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.cleditor.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187294
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.elfinder.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187314
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.raty.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187317
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.iphone.toggle.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187320
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.autogrow-textarea.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187320
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.uploadify-3.1.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187325
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery.history.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187325
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187344
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377187364
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377187381
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377187396
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/staff/General/DocumentsUploads.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_48.png",
+    "load_time": 0.7816088199615479,
+    "visited_time": "2026-02-06 16:56:34",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/staff/General/DocumentsUploads.aspx 350 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377192615
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377192615
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377192641
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/Images/Indent/roundLoading.gif - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377192915
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377192939
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377192959
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/DocumentsUploads.aspx 2598:12 Uncaught ReferenceError: makeDangerous is not defined",
+        "source": "javascript",
+        "timestamp": 1770377192968
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377192978
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamQuestionChange.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_49.png",
+    "load_time": 1.2746078968048096,
+    "visited_time": "2026-02-06 16:56:38",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377196830
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/js/design-common.js?2809190138 4:38 Uncaught TypeError: $(...).mCustomScrollbar is not a function",
+        "source": "javascript",
+        "timestamp": 1770377196985
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ViewStudentPassword.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_50.png",
+    "load_time": 0.17867612838745117,
+    "visited_time": "2026-02-06 16:56:42",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/UFMReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_51.png",
+    "load_time": 0.17041969299316406,
+    "visited_time": "2026-02-06 16:56:46",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ManageMantorDashboard.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_52.png",
+    "load_time": 0.598219633102417,
+    "visited_time": "2026-02-06 16:56:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377209052
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/bootstrap-datepicker/bootstrap-datepicker.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377209055
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/select-2/select2.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377209056
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/select-2/select2.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377209059
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/ManageMantorDashboard.aspx 2666:48 Uncaught TypeError: $(...).select2 is not a function",
+        "source": "javascript",
+        "timestamp": 1770377209109
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/DocumentVerifyRequest.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_53.png",
+    "load_time": 0.266934871673584,
+    "visited_time": "2026-02-06 16:56:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/InternationalStudentData.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_54.png",
+    "load_time": 0.5306150913238525,
+    "visited_time": "2026-02-06 16:56:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/StreamWiseDeanMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_55.png",
+    "load_time": 0.25378966331481934,
+    "visited_time": "2026-02-06 16:57:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/SemesterDetailActiveInActive.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_56.png",
+    "load_time": 0.29125523567199707,
+    "visited_time": "2026-02-06 16:57:06",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/DirectorDashboard.aspx",
+    "issues": [
+      "Visit failed: unexpected alert open: {Alert text : Data Not Found...}"
+    ],
+    "screenshot": "screenshots\\failed\\page_57.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:57:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/MyDailyAndMasterTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_58.png",
+    "load_time": 0.5188663005828857,
+    "visited_time": "2026-02-06 16:57:14",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377233338
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/MyDailyAndMasterTimeTable.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377233338
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377233580
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377233597
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377233613
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377233622
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377233632
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/TopicCoveredOnAttendanceNew.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_59.png",
+    "load_time": 0.24216890335083008,
+    "visited_time": "2026-02-06 16:57:19",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/inc/bootstrap-datepicker/bootstrap-datepicker.css 5:0 Uncaught SyntaxError: Unexpected token '.'",
+        "source": "javascript",
+        "timestamp": 1770377238222
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/GDExamScheduleDM.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_60.png",
+    "load_time": 0.7541787624359131,
+    "visited_time": "2026-02-06 16:57:24",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/GDExamScheduleWPar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_61.png",
+    "load_time": 0.44097399711608887,
+    "visited_time": "2026-02-06 16:57:29",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377248017
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/GDExamScheduleWPar.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377248017
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/js/jquery-1.11.0.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377248061
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377248123
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377248137
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377248153
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377248166
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377248174
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/SyllabusFacultyModulePlanP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_62.png",
+    "load_time": 0.3157510757446289,
+    "visited_time": "2026-02-06 16:57:32",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Syllabus/SyllabusFacultyModulePage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_63.png",
+    "load_time": 0.5523111820220947,
+    "visited_time": "2026-02-06 16:57:38",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Syllabus/SyllabusFacultyModulePage.aspx 111 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377256814
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377256815
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Syllabus/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377257040
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377257045
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Syllabus/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377257059
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377257070
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Syllabus/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377257080
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ClassLedgerP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_64.png",
+    "load_time": 0.27622151374816895,
+    "visited_time": "2026-02-06 16:57:42",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377261211
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ClassLedgerP.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377261212
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377261246
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377261265
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377261278
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377261286
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377261296
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/StudentTimeTableCheck.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_65.png",
+    "load_time": 0.1414508819580078,
+    "visited_time": "2026-02-06 16:57:46",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/HallTicket.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_66.png",
+    "load_time": 0.15839695930480957,
+    "visited_time": "2026-02-06 16:57:51",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/staff/General/SubjectFacultyMappingP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_67.png",
+    "load_time": 0.322096586227417,
+    "visited_time": "2026-02-06 16:57:56",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/staff/General/SubjectFacultyMappingP.aspx 98 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377275197
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377275197
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377275261
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377275276
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377275290
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377275299
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377275308
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/TIPOWEB/Company/TIPOStudentResultData.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_68.png",
+    "load_time": 0.5147879123687744,
+    "visited_time": "2026-02-06 16:57:59",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/TIPOWEB/Company/TIPOStudentResultData.aspx 98 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377278673
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377278673
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377278901
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/Company/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377278913
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/Company/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377278926
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377278938
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/TIPOWEB/Company/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377278947
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/CoordinatorEntry.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_69.png",
+    "load_time": 0.2737104892730713,
+    "visited_time": "2026-02-06 16:58:03",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377282231
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/CoordinatorEntry.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377282232
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377282266
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377282282
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377282298
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377282306
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377282314
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/StudentMentoringDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_70.png",
+    "load_time": 0.4088609218597412,
+    "visited_time": "2026-02-06 16:58:07",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/css/bootstrap-grid-style.css?2809190138 - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377286165
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/AcademicFile.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_71.png",
+    "load_time": 0.18621349334716797,
+    "visited_time": "2026-02-06 16:58:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ByPassAttandance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_72.png",
+    "load_time": 0.26871371269226074,
+    "visited_time": "2026-02-06 16:58:14",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ByPassAttandance.aspx 99 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377293749
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377293750
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377293788
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377293796
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377293810
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377293817
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377293826
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/PopupAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_73.png",
+    "load_time": 0.9293251037597656,
+    "visited_time": "2026-02-06 16:58:19",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/PopupAdminPanel.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377298240
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377298240
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377298400
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377298592
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377298607
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377298657
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377298666
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/CreateExamCSWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_74.png",
+    "load_time": 0.21654224395751953,
+    "visited_time": "2026-02-06 16:58:23",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamPaperDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_75.png",
+    "load_time": 0.1807270050048828,
+    "visited_time": "2026-02-06 16:58:27",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/ExamPaperDetail.aspx 2270:0 Uncaught ReferenceError: popupheight is not defined",
+        "source": "javascript",
+        "timestamp": 1770377306143
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamAnswerKey.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_76.png",
+    "load_time": 1.2179317474365234,
+    "visited_time": "2026-02-06 16:58:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/js/design-common.js?2809190138 4:38 Uncaught TypeError: $(...).mCustomScrollbar is not a function",
+        "source": "javascript",
+        "timestamp": 1770377310593
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/CreateMastertimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_77.png",
+    "load_time": 0.24386000633239746,
+    "visited_time": "2026-02-06 16:58:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/Createtimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_78.png",
+    "load_time": 0.21684980392456055,
+    "visited_time": "2026-02-06 16:58:41",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/InterviewEvaluation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_79.png",
+    "load_time": 0.460543155670166,
+    "visited_time": "2026-02-06 16:58:45",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.ssse.in/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377323997
+      }
+    ]
+  },
+  {
+    "url": "https://admin.ssse.in/feesduedetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_80.png",
+    "load_time": 0.4646484851837158,
+    "visited_time": "2026-02-06 16:58:49",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.ssse.in/feesduedetails.aspx 144:20 Uncaught SyntaxError: Unexpected identifier 'SelectDesignSearch'",
+        "source": "javascript",
+        "timestamp": 1770377328527
+      }
+    ]
+  },
+  {
+    "url": "https://rights.ssse.in/index.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_81.png",
+    "load_time": 3.7380659580230713,
+    "visited_time": "2026-02-06 16:58:57",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.ssse.in/inc/select-2/select2.js 16:12 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770377336573
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/UserRights.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_82.png",
+    "load_time": 0.6603071689605713,
+    "visited_time": "2026-02-06 16:59:02",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/UserRights.aspx 219 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377341624
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377341624
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377341683
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377341752
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377341770
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/staff/General/SalesInvoiceMain.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_83.png",
+    "load_time": 3.2980005741119385,
+    "visited_time": "2026-02-06 16:59:11",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377348933
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/staff/General/SalesInvoiceMain.aspx 180 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377348933
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377349448
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377349482
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377349511
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377349525
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377349568
+      }
+    ]
+  },
+  {
+    "url": "https://indent.ssse.in/UserRrequest.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_84.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:59:16",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/SecurityIncidence.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_85.png",
+    "load_time": 0.6929235458374023,
+    "visited_time": "2026-02-06 16:59:20",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.ssse.in/SecurityIncidence.aspx 2723:8 Uncaught ReferenceError: setCalenderDateTime is not defined",
+        "source": "javascript",
+        "timestamp": 1770377359351
+      }
+    ]
+  },
+  {
+    "url": "https://admin.ssse.in/LoginScreenImageDisplay.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_86.png",
+    "load_time": 0.20369887351989746,
+    "visited_time": "2026-02-06 16:59:25",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/staff/general/AdminUserRights.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_87.png",
+    "load_time": 0.6715662479400635,
+    "visited_time": "2026-02-06 16:59:30",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/staff/General/AdminEscalationMatrix.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_88.png",
+    "load_time": 0.3388230800628662,
+    "visited_time": "2026-02-06 16:59:34",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377373024
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/staff/General/AdminEscalationMatrix.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377373025
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377373116
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377373137
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377373156
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in//Staff/General/LostAndFoundMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_89.png",
+    "load_time": 0.6713323593139648,
+    "visited_time": "2026-02-06 16:59:39",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in//Staff/General/LostAndFoundMaster.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377377724
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in//js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377377724
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in//js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377377996
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in//Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377378084
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in//Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377378136
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ViolationSummary.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_90.png",
+    "load_time": 0.16239643096923828,
+    "visited_time": "2026-02-06 16:59:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/BulkFeesReceipt.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_91.png",
+    "load_time": 0.21474933624267578,
+    "visited_time": "2026-02-06 16:59:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/ICT.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_92.png",
+    "load_time": 0.3447871208190918,
+    "visited_time": "2026-02-06 16:59:52",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377391151
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/ICT.aspx 102 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377391151
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377391163
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377391220
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377391235
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_93.png",
+    "load_time": 3.0574822425842285,
+    "visited_time": "2026-02-06 16:59:59",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377396300
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377396300
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377396385
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377396405
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377396419
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377396426
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377396438
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 2015 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770377396949
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/VisitorDetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_94.png",
+    "load_time": 0.24267983436584473,
+    "visited_time": "2026-02-06 17:00:04",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/VisitorDetails.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377403199
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377403200
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377403240
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377403256
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377403269
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377403278
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377403285
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ExpenseDebitTo.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_95.png",
+    "load_time": 0.23202872276306152,
+    "visited_time": "2026-02-06 17:00:08",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377407841
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ExpenseDebitTo.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377407841
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377407868
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377407879
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377407899
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377407904
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377407911
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/ControlPages/StudentLoggedInCount.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_96.png",
+    "load_time": 0.7175250053405762,
+    "visited_time": "2026-02-06 17:00:12",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/ControlPages/StudentLoggedInCount.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377411458
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377411458
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377411692
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377411696
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377411711
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377411718
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377411727
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/HouseKeeping/HKChangeEmployeeLocation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_97.png",
+    "load_time": 0.5419213771820068,
+    "visited_time": "2026-02-06 17:00:16",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/HouseKeeping/HKChangeEmployeeLocation.aspx 133 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377415372
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377415372
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/HouseKeeping/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377415625
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377415627
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/HouseKeeping/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377415638
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377415650
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/HouseKeeping/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377415659
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ProcurementHODMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_98.png",
+    "load_time": 0.29315757751464844,
+    "visited_time": "2026-02-06 17:00:20",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377419544
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ProcurementHODMaster.aspx 76 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377419544
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377419575
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377419583
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377419599
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377419606
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377419613
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ProcurementDEANMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_99.png",
+    "load_time": 0.22172141075134277,
+    "visited_time": "2026-02-06 17:00:25",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ProcurementDEANMaster.aspx 121 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377423842
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377423843
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377423860
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377423862
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377423874
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377423880
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377423884
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Survey/EmployeeProfileRpt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "HTTP status 500"
+    ],
+    "screenshot": "screenshots\\failed\\page_100.png",
+    "load_time": 2.129443407058716,
+    "visited_time": "2026-02-06 17:00:30",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Survey/EmployeeProfileRpt.aspx 253 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770377428902
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377430178
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/guesthouse/GuestHouseIndentRequsts.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_101.png",
+    "load_time": 1.0795118808746338,
+    "visited_time": "2026-02-06 17:00:36",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377434889
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/guesthouse/GuestHouseIndentRequsts.aspx 283 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377434889
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770377435102
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377435228
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/guesthouse/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377435241
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/guesthouse/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377435266
+      }
+    ]
+  },
+  {
+    "url": "https://guesthouse.ssse.in/Index.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_102.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 17:00:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/GuestHouseIncludeIndent.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_103.png",
+    "load_time": 0.4991748332977295,
+    "visited_time": "2026-02-06 17:00:45",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377444133
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/GuestHouse/GuestHouseIncludeIndent.aspx 58 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377444133
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770377444238
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377444373
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377444394
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377444417
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/GuestHouseMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_104.png",
+    "load_time": 0.10210871696472168,
+    "visited_time": "2026-02-06 17:00:48",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/GuestHouseMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377448274
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FloorMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_105.png",
+    "load_time": 0.0610501766204834,
+    "visited_time": "2026-02-06 17:00:52",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FloorMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377451972
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/AllotmentTypeMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_106.png",
+    "load_time": 0.07706165313720703,
+    "visited_time": "2026-02-06 17:00:56",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/AllotmentTypeMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377455717
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatTypeMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_107.png",
+    "load_time": 0.05815529823303223,
+    "visited_time": "2026-02-06 17:01:00",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatTypeMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377460026
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatTypeRentSlabDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_108.png",
+    "load_time": 0.08026957511901855,
+    "visited_time": "2026-02-06 17:01:04",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatTypeRentSlabDetail.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377464413
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_109.png",
+    "load_time": 0.06569457054138184,
+    "visited_time": "2026-02-06 17:01:07",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377467096
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatRoomMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_110.png",
+    "load_time": 0.05846548080444336,
+    "visited_time": "2026-02-06 17:01:11",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatRoomMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377471382
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatRoomCapacity.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_111.png",
+    "load_time": 0.047956228256225586,
+    "visited_time": "2026-02-06 17:01:15",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatRoomCapacity.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377474781
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatRoomDetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_112.png",
+    "load_time": 0.0472264289855957,
+    "visited_time": "2026-02-06 17:01:19",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatRoomDetails.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377478624
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlatRoomACSlabs.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_113.png",
+    "load_time": 0.04897451400756836,
+    "visited_time": "2026-02-06 17:01:22",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlatRoomACSlabs.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377481528
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FreeTypeMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_114.png",
+    "load_time": 0.045459747314453125,
+    "visited_time": "2026-02-06 17:01:25",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FreeTypeMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377484716
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/BasicItemRequirementForFlat.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_115.png",
+    "load_time": 0.056096792221069336,
+    "visited_time": "2026-02-06 17:01:28",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/BasicItemRequirementForFlat.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377487859
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/GuestMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_116.png",
+    "load_time": 0.049977779388427734,
+    "visited_time": "2026-02-06 17:01:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/GuestMaster.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377492190
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/GuestHouseAdmission.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_117.png",
+    "load_time": 0.05111193656921387,
+    "visited_time": "2026-02-06 17:01:37",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/GuestHouseAdmission.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377496602
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/FlateWiseItemAllotment.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_118.png",
+    "load_time": 0.04679536819458008,
+    "visited_time": "2026-02-06 17:01:40",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/FlateWiseItemAllotment.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377499556
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/OtherDeduction.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_119.png",
+    "load_time": 0.05011177062988281,
+    "visited_time": "2026-02-06 17:01:42",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/OtherDeduction.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377502329
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/BillsMain.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_120.png",
+    "load_time": 0.04579901695251465,
+    "visited_time": "2026-02-06 17:01:46",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/BillsMain.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377506498
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptAccommodationCapacityStayVacant.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_121.png",
+    "load_time": 0.04513382911682129,
+    "visited_time": "2026-02-06 17:01:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptAccommodationCapacityStayVacant.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377510335
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptGuestInformation.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_122.png",
+    "load_time": 0.046380043029785156,
+    "visited_time": "2026-02-06 17:01:54",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptGuestInformation.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377514000
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptAdmissionVacantChangeList.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_123.png",
+    "load_time": 0.048338890075683594,
+    "visited_time": "2026-02-06 17:01:58",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptAdmissionVacantChangeList.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377517855
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptBillsEmployeeWise.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_124.png",
+    "load_time": 0.2822074890136719,
+    "visited_time": "2026-02-06 17:02:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/GuestHouse/RptBillsEmployeeWise.aspx 202 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377522135
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377522135
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377522165
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377522190
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377522199
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377522205
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377522209
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptBasicItemRequirementForFlatDetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_125.png",
+    "load_time": 0.04855847358703613,
+    "visited_time": "2026-02-06 17:02:06",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptBasicItemRequirementForFlatDetails.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377525768
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptFlatWiseInventoryAllotement.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_126.png",
+    "load_time": 0.04478573799133301,
+    "visited_time": "2026-02-06 17:02:09",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptFlatWiseInventoryAllotement.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377528732
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptEmployeeWiseInventoryAllotment.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_127.png",
+    "load_time": 0.048801422119140625,
+    "visited_time": "2026-02-06 17:02:13",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptEmployeeWiseInventoryAllotment.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377532688
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptGuestHouseAllotmentFreeList.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_128.png",
+    "load_time": 0.05254840850830078,
+    "visited_time": "2026-02-06 17:02:16",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptGuestHouseAllotmentFreeList.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377535890
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/GuestHouse/RptFlatList.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_129.png",
+    "load_time": 0.047324180603027344,
+    "visited_time": "2026-02-06 17:02:19",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/GuestHouse/RptFlatList.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377539103
+      }
+    ]
+  },
+  {
+    "url": "https://home.ssse.in/EmpFamilyMembersDetailsInfo.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_130.png",
+    "load_time": 0.14907526969909668,
+    "visited_time": "2026-02-06 17:02:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/EmpPLeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_131.png",
+    "load_time": 0.16591811180114746,
+    "visited_time": "2026-02-06 17:02:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/departmentalnotices.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_132.png",
+    "load_time": 0.1586456298828125,
+    "visited_time": "2026-02-06 17:02:31",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/OffersUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_133.png",
+    "load_time": 0.308438777923584,
+    "visited_time": "2026-02-06 17:02:35",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/WebLoginHit.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_134.png",
+    "load_time": 0.12747955322265625,
+    "visited_time": "2026-02-06 17:02:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/OnlineApplicationPostMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_135.png",
+    "load_time": 0.20733118057250977,
+    "visited_time": "2026-02-06 17:02:45",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/HRLeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_136.png",
+    "load_time": 0.538794755935669,
+    "visited_time": "2026-02-06 17:02:50",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/LeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_137.png",
+    "load_time": 0.2860088348388672,
+    "visited_time": "2026-02-06 17:02:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/LeaveApproval.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_138.png",
+    "load_time": 0.45702242851257324,
+    "visited_time": "2026-02-06 17:02:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in//LeaveApprovalFlow/ApprovalFlowConfig.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_139.png",
+    "load_time": 0.49863314628601074,
+    "visited_time": "2026-02-06 17:03:03",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/sweetalert/sweetalert.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582764
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582766
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/css/bootstrap-grid-style.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582767
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/sweetalert/sweetalert.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582800
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582804
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582804
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/bootstrap-datepicker/bootstrap-datepicker.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770377582834
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.ssse.in//LeaveApprovalFlow/ApprovalFlowConfig.aspx 4018:22 Uncaught TypeError: $(...).datetimepicker is not a function",
+        "source": "javascript",
+        "timestamp": 1770377582870
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.ssse.in//LeaveApprovalFlow/ApprovalFlowConfig.aspx 4010:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770377582893
+      }
+    ]
+  },
+  {
+    "url": "https://home.ssse.in/MEFHolidays.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_140.png",
+    "load_time": 0.12313961982727051,
+    "visited_time": "2026-02-06 17:03:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/PeonList.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_141.png",
+    "load_time": 0.13512635231018066,
+    "visited_time": "2026-02-06 17:03:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/ChangePassword.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_142.png",
+    "load_time": 0.1330115795135498,
+    "visited_time": "2026-02-06 17:03:16",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://login.ssse.in/js/jquery.toastmessage.js 160:3 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770377595734
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://login.ssse.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=3%2FaRJSv5%2Bxw%3D&b=fO%2BTc0LAuHM%3D 20:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770377595735
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.ssse.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=3%2FaRJSv5%2Bxw%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770377595754
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.ssse.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=3%2FaRJSv5%2Bxw%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770377595754
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.ssse.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=3%2FaRJSv5%2Bxw%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770377595755
+      }
+    ]
+  },
+  {
+    "url": "https://home.ssse.in/EmployeeCircularUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_143.png",
+    "load_time": 0.13652968406677246,
+    "visited_time": "2026-02-06 17:03:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ManageGradeSheetNew.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_144.png",
+    "load_time": 0.31104516983032227,
+    "visited_time": "2026-02-06 17:03:25",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ManageGradeSheetNew.aspx 226 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377603917
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377603918
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377603974
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377603983
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377603997
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/StudentFollowUpHostelTransportNotUse.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_145.png",
+    "load_time": 0.366300106048584,
+    "visited_time": "2026-02-06 17:03:28",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/StudentFollowUpHostelTransportNotUse.aspx 118 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377607439
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377607439
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377607511
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377607518
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377607525
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/ControlPages/TransportationFuel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_146.png",
+    "load_time": 0.38516950607299805,
+    "visited_time": "2026-02-06 17:03:32",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/ControlPages/TransportationFuel.aspx 1821 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377611918
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377611918
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377611972
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377611974
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377611987
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377611993
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377612001
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/ControlPages/TransportationAverage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_147.png",
+    "load_time": 0.28791117668151855,
+    "visited_time": "2026-02-06 17:03:37",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/ControlPages/TransportationAverage.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377615767
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377615768
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377615799
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377615814
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377615825
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377615830
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/ControlPages/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377615835
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/TransportationRouteDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_148.png",
+    "load_time": 0.25284361839294434,
+    "visited_time": "2026-02-06 17:03:42",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/TransportationRouteDetail.aspx 111 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377620983
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377620983
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377621000
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377621008
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377621017
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377621022
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377621026
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/HostelStudentVehicleReq.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_149.png",
+    "load_time": 0.06205320358276367,
+    "visited_time": "2026-02-06 17:03:44",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/HostelStudentVehicleReq.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377624335
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/PurchaseOrderApproval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_150.png",
+    "load_time": 0.32535481452941895,
+    "visited_time": "2026-02-06 17:03:49",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377628604
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/PurchaseOrderApproval.aspx 54:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770377628644
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-select.js 1816:3 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770377628698
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/PurchaseOrderApproval.aspx 406:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770377628698
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770377628710
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Indent/Indents.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_151.png",
+    "load_time": 0.9871203899383545,
+    "visited_time": "2026-02-06 17:03:56",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377634354
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Indent/Indents.aspx 62:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770377634392
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Indent/Indents.aspx 1122:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770377634410
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Indent/Transaction.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_152.png",
+    "load_time": 1.7697877883911133,
+    "visited_time": "2026-02-06 17:04:01",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377639727
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Indent/Transaction.aspx 56:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770377639761
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770377640035
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Indent/Approval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_153.png",
+    "load_time": 1.5998015403747559,
+    "visited_time": "2026-02-06 17:04:07",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377645623
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Indent/Approval.aspx 56:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770377645625
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770377645894
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamTypeWiseResult.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_154.png",
+    "load_time": 0.17849326133728027,
+    "visited_time": "2026-02-06 17:04:10",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/StudentResultAnalysisReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_155.png",
+    "load_time": 0.15080714225769043,
+    "visited_time": "2026-02-06 17:04:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/StudentResultExcel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_156.png",
+    "load_time": 0.2824263572692871,
+    "visited_time": "2026-02-06 17:04:19",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/StudentResultExcel.aspx 201 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377657859
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377657859
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377657911
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377657915
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377657923
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/DailyTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_157.png",
+    "load_time": 0.18472957611083984,
+    "visited_time": "2026-02-06 17:04:23",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/DailyTimeTable.aspx 2537:6 Uncaught SyntaxError: missing ) after argument list",
+        "source": "javascript",
+        "timestamp": 1770377662817
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/AttendanceReports.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_158.png",
+    "load_time": 0.14431142807006836,
+    "visited_time": "2026-02-06 17:04:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ExamAnswerSheetMarksQuestionWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_159.png",
+    "load_time": 0.30946874618530273,
+    "visited_time": "2026-02-06 17:04:31",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/FeesStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_160.png",
+    "load_time": 0.15450286865234375,
+    "visited_time": "2026-02-06 17:04:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/ObeMappingStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_161.png",
+    "load_time": 0.1377699375152588,
+    "visited_time": "2026-02-06 17:04:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/staff/general/StudentAllResult.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_162.png",
+    "load_time": 0.23793673515319824,
+    "visited_time": "2026-02-06 17:04:44",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/staff/general/StudentAllResult.aspx 1814 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377683426
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377683426
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/general/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377683470
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377683477
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/general/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377683486
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377683490
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/staff/general/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377683495
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/SubjectNotAllocatedReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_163.png",
+    "load_time": 0.9128646850585938,
+    "visited_time": "2026-02-06 17:04:48",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/SubjectNotAllocatedReport.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377687004
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377687004
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377687049
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377687071
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377687086
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/SubjectNotAllocatedReport.aspx 1993 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770377687687
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ByPassAttendanceReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_164.png",
+    "load_time": 0.3235318660736084,
+    "visited_time": "2026-02-06 17:04:54",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377692741
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ByPassAttendanceReport.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377692741
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377692777
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377692823
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377692859
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/AnswerSheetMarks.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_165.png",
+    "load_time": 0.33642101287841797,
+    "visited_time": "2026-02-06 17:04:59",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/AnswerSheetMarks.aspx 119 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377697917
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377697922
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377697987
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377697992
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377698014
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377698023
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377698040
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/MasterTimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_166.png",
+    "load_time": 0.8423807621002197,
+    "visited_time": "2026-02-06 17:05:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/MasterTimeTableReport.aspx 150 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377701667
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377701667
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377701857
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377702153
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377702168
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/ExamPaperAnswersheetDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_167.png",
+    "load_time": 0.2813448905944824,
+    "visited_time": "2026-02-06 17:05:07",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/ExamPaperAnswersheetDetail.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377706821
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377706821
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377706847
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377706872
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377706893
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377706902
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377706910
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/InwardOutwardSearchReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_168.png",
+    "load_time": 0.36821961402893066,
+    "visited_time": "2026-02-06 17:05:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/TimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_169.png",
+    "load_time": 0.29856300354003906,
+    "visited_time": "2026-02-06 17:05:16",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/TimeTableReport.aspx 132 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377715531
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377715531
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377715558
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377715599
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377715610
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/SubjectFacultyMappingReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_170.png",
+    "load_time": 0.2408609390258789,
+    "visited_time": "2026-02-06 17:05:21",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/FacultyLoadReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_171.png",
+    "load_time": 0.20115876197814941,
+    "visited_time": "2026-02-06 17:05:26",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/KHM/EmpWiseWorkingHours.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_172.png",
+    "load_time": 0.5957696437835693,
+    "visited_time": "2026-02-06 17:05:31",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/KHM/EmpWiseWorkingHours.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377729702
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377729703
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377729942
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377729948
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377729960
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377729971
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377729985
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/PRDetailsReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_173.png",
+    "load_time": 0.5260317325592041,
+    "visited_time": "2026-02-06 17:05:34",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/PRDetailsReport.aspx 64 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377733553
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377733553
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377733602
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377733783
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377733798
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/CentralStreamWiseReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_174.png",
+    "load_time": 0.34217357635498047,
+    "visited_time": "2026-02-06 17:05:40",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/CentralStreamWiseReport.aspx 120 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377738874
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377738875
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377738928
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377738941
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377738956
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/AttendanceReport.aspx?RType=m4xPZcEkEjPnM+NOqUCVhA==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_175.png",
+    "load_time": 0.18113994598388672,
+    "visited_time": "2026-02-06 17:05:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/RubricsPlanningReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_176.png",
+    "load_time": 0.4595499038696289,
+    "visited_time": "2026-02-06 17:05:48",
+    "js_logs": [
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377747061
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/Staff/General/RubricsPlanningReport.aspx 109 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377747061
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377747116
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377747278
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/Staff/General/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377747293
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/COAttainment.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_177.png",
+    "load_time": 0.3725717067718506,
+    "visited_time": "2026-02-06 17:05:52",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/COAttainment.aspx 2285:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770377751765
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/COAttainment.aspx?RType=C7",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_178.png",
+    "load_time": 0.20693111419677734,
+    "visited_time": "2026-02-06 17:05:56",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/COAttainment.aspx?RType=C7 2180:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770377755145
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/AcademicCalendar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_179.png",
+    "load_time": 0.2170114517211914,
+    "visited_time": "2026-02-06 17:06:00",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/AcademicCalendar.aspx 2229:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770377759822
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ResultPassingCommittee.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_180.png",
+    "load_time": 0.20392465591430664,
+    "visited_time": "2026-02-06 17:06:04",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.ssse.in/ResultPassingCommittee.aspx 2268:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770377763411
+      }
+    ]
+  },
+  {
+    "url": "https://academic.ssse.in/ExamPaperGenerateAssessed.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_181.png",
+    "load_time": 0.18152117729187012,
+    "visited_time": "2026-02-06 17:06:08",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/StudentMentorReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_182.png",
+    "load_time": 0.1964559555053711,
+    "visited_time": "2026-02-06 17:06:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/AttendanceReport.aspx?RType=6LapKAU2RX9uHv8SzmO0aNXz42U3LxTp",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_183.png",
+    "load_time": 0.3548107147216797,
+    "visited_time": "2026-02-06 17:06:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/AttendanceReport.aspx?RType=vsWjtTLbK9Ypo2ktSxJVPg==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_184.png",
+    "load_time": 0.18726587295532227,
+    "visited_time": "2026-02-06 17:06:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/Staff/General/AttendanceReport.aspx?RType=TLC5oQIJ3mh3DVIUFJ5Jfb6mnD/QPqwG",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_185.png",
+    "load_time": 0.18060564994812012,
+    "visited_time": "2026-02-06 17:06:26",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.ssse.in/AttendanceReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_186.png",
+    "load_time": 0.15043926239013672,
+    "visited_time": "2026-02-06 17:06:29",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.ssse.in/KHM/FacultyWorstPerformance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_187.png",
+    "load_time": 0.267533540725708,
+    "visited_time": "2026-02-06 17:06:33",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/KHM/FacultyWorstPerformance.aspx 303 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377792573
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377792573
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377792615
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377792624
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377792633
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377792638
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377792643
+      }
+    ]
+  },
+  {
+    "url": "https://emp.ssse.in/KHM/TechnicalAttendanceClasswise.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_188.png",
+    "load_time": 0.20681309700012207,
+    "visited_time": "2026-02-06 17:06:38",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.ssse.in/KHM/TechnicalAttendanceClasswise.aspx 852 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770377797505
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.ssse.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770377797505
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770377797521
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377797524
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770377797531
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377797536
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.ssse.in/KHM/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770377797539
+      }
+    ]
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/ItemMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_189.png",
+    "load_time": 0.32024288177490234,
+    "visited_time": "2026-02-06 17:06:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/ApproveAuthority.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_190.png",
+    "load_time": 0.1929185390472412,
+    "visited_time": "2026-02-06 17:06:47",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/ItemMasterSlab.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_191.png",
+    "load_time": 0.19339680671691895,
+    "visited_time": "2026-02-06 17:06:52",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/PurposeMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_192.png",
+    "load_time": 0.14782238006591797,
+    "visited_time": "2026-02-06 17:06:55",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/LunchRequest.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_193.png",
+    "load_time": 0.1930403709411621,
+    "visited_time": "2026-02-06 17:06:59",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.ssse.in/Canteen/AllCanteenReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_194.png",
+    "load_time": 0.7732760906219482,
+    "visited_time": "2026-02-06 17:07:05",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.sssse.in/inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770377823986
+      }
+    ]
+  },
+  {
+    "url": "https://home.ssse.in/#info",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_195.png",
+    "load_time": 0.3694605827331543,
+    "visited_time": "2026-02-06 17:07:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/#custom",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_196.png",
+    "load_time": 0.016119956970214844,
+    "visited_time": "2026-02-06 17:07:13",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/#dvELeave",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_197.png",
+    "load_time": 0.009075403213500977,
+    "visited_time": "2026-02-06 17:07:16",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/#divcirculars",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_198.png",
+    "load_time": 0.01362466812133789,
+    "visited_time": "2026-02-06 17:07:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/#divoffers",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_199.png",
+    "load_time": 0.014319181442260742,
+    "visited_time": "2026-02-06 17:07:23",
+    "js_logs": []
+  },
+  {
+    "url": "https://handlers.ssse.in/DownloadHandler.ashx?EmpCircularId=2",
+    "issues": [
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_200.png",
+    "load_time": 0.04487013816833496,
+    "visited_time": "2026-02-06 17:07:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://handlers.ssse.in/DownloadHandler.ashx?EmpCircularId=1",
+    "issues": [
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_201.png",
+    "load_time": 0.057932376861572266,
+    "visited_time": "2026-02-06 17:07:30",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.ssse.in/HRPDFS/Transportpolicy-2022.pdf",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_202.png",
+    "load_time": 0.08678889274597168,
+    "visited_time": "2026-02-06 17:07:34",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.ssse.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770377853824
+      }
+    ]
+  }
+]
